@@ -26,4 +26,5 @@ https://www.notion.so/chorome/wgld-org-6f79c462f5504c44a1dbe405dc8466c0
 - [24](24)
 - [25](25)
 - [26](26)
+- [27](27)
 
