@@ -218,7 +218,7 @@ onload = function () {
         return ibo;
     }
 
-    function create_texture(source) {
+    function create_texture(source, number) {
         // イメージオブジェクトの生成
         var img = new Image();
 
