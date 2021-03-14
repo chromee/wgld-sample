@@ -29,4 +29,5 @@
 - [28](https://chromee.github.io/wgld-sample/28)
 - [29](https://chromee.github.io/wgld-sample/29)
 - [30](https://chromee.github.io/wgld-sample/30)
+- [32](https://chromee.github.io/wgld-sample/32)
 
